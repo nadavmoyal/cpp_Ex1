@@ -1,12 +1,8 @@
 /**
- * An example of how to write unit tests.
- * Use this as a basis to build a more complete Test.cpp file.
- * 
- * IMPORTANT: Please write more tests - the tests here are only for example and are not complete.
  *
- * AUTHORS: <Please write your names here>
+ * AUTHOR: Nadav Moyal
  * 
- * Date: 2021-02
+ * 
  */
 
 #include "doctest.h"
